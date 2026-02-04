@@ -19,3 +19,4 @@ print(tea, poke)
 # for x in range(0,10) -> gives numbers from 0 to 9
 
 squared_num = [x**2 for x in range(10)]
+print(squared_num)

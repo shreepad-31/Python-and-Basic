@@ -12,11 +12,11 @@ num = "0123456789"
 print(num[::2])
 # in [a:b:c] atarts from a ends before b and c is for hopping
 # Bonus: we can write num[::-1] to reverse the string
-
-# str.upper() -> str in Upper case
+a = "Shree"
+# print(a.upper()) # -> str in Upper case
 # str.lower() -> str in Lower case
 # str.strip() -> extra spaces removed
-# str.replace("this", "that") -> It replace "this" by "that" in str
+print(a.replace("S", "tyui")) # -> It replace "this" by "that" in str
 # str.count("rep") -> gives count of rep in str
 # len(str) -> gives lenght of str 
 # raw = r"hello\nworld" -> prints as it is

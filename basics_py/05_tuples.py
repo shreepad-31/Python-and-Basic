@@ -7,6 +7,6 @@ tea_new = ("White", "Mint")
 all_tea = tea_new + tea
 
 tea_new = ("White", "Mint", "White")
-tea_new.count("White")
+print(tea_new.count("White"))
 
 (e1, e2, e3) = tea
