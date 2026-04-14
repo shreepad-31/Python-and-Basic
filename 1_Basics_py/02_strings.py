@@ -26,6 +26,7 @@ l1 = chai.split(", ") #Converts into list with entries separated with ", "
 
 chai_var = ["Lemon", "Masala", "Ginger"]
 l2 = " ".join(chai_var) #Converts lists into string with " " between entries
+print(l2)
 
 chai = "lemon tea"
 print(chai.find("tea")) #gives position from which "tea" starts, if output is -1 then it does not exist
